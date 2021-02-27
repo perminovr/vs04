@@ -1,0 +1,3 @@
+﻿module Hmi
+plugin qmlqhmiplugin
+typeinfo plugins.qmltypes

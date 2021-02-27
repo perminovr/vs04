@@ -1,0 +1,4 @@
+LIBTARGET = wdtctl
+BASEDIR   = $${PWD}
+INCLUDEPATH *= $${BASEDIR}/$${LIBTARGET}/include
+LIBS += -l$${LIBTARGET}
